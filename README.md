@@ -25,4 +25,17 @@ Total Work Ex.: Total experience at Infosys
 Total PM Ex: Total project management experience so far
 Vertical: To capture the diversity of respondents
 
+P2-computationFinal
+-----------
+Q. No. in Survey-2	: Question no. in questionnaire 2
+C(E): Count of Essential responses
+C(W): Count of Worthwhile responses
+C(UI): Count of Unimportant responses
+C(UW): Count of Unwise reponses
+C(DU): Count of I don't understand reponses
+Total resposes: Total responses received in pahse 2 for the particular question
+NIM: Value for Net Importance Metric (proposed in paper)
+C(P1): No. of members in group while formulating generic problem statement from phase-1 responses					
+
+
 
